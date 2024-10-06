@@ -1,0 +1,2 @@
+# assistentewifitelinux
+Assiste do Wifite.
